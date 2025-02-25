@@ -16,6 +16,6 @@ This repository is where our interns explore web development and share resources
 Anyone interested in front-end web development
 
 This project is open-source and available under the MIT License
-License
 
-This project is licensed under the MIT License.
+## License
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
