@@ -1,5 +1,5 @@
 # HTML-CSS
-This repository is where our interns explore web development and share resources to help others learn HTML &amp; CSS. It includes small projects, presentations, and useful guides for beginner
+This repository is where our interns explore web development and share resources to help others learn HTML & CSS. It includes small projects, presentations, and useful guides for beginners. Our goal is to build a strong foundation in front-end development and encourage collaboration within our learning community.
 
 ### What You'll Find Here
 * Presentations (PPTs): Lessons, key concepts, and takeaways from our learning sessions.
@@ -14,3 +14,8 @@ This repository is where our interns explore web development and share resources
 
 
 Anyone interested in front-end web development
+
+This project is open-source and available under the MIT License
+License
+
+This project is licensed under the MIT License.
